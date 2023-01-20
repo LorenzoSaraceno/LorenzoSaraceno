@@ -3,5 +3,5 @@ Born and raised with pad, mouse and keyboard, I have a passion for video games a
 
 # Work in progress
 
-- 🔭 I’m currently working on a EBIRAH'S game [ EBIRAH'S GAME ](  )
+- 🔭 I’m currently working on a EBIRAH'S game
 - 🌱 I’m currently learning 3D Game Art
